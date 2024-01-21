@@ -1,0 +1,56 @@
+# Ignore compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore build and temporary folders
+/target/
+/bin/
+/build/
+/node_modules/
+/.gradle/
+/.idea/
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore configuration files that may contain sensitive information
+config.properties
+config.yml
+.env
+
+# Ignore log files
+*.log
+
+# Ignore user-specific files
+*.iml
+.idea/
+*.suo
+*.user
+*.suo
+*.userprefs
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore package-lock.json for Node.js projects
+package-lock.json
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore compiled Ruby files
+*.gem
+
+# Ignore Jekyll build directory
+_site/
+
+# Ignore Android files
+*.apk
+*.dex
+*.class
+build/
+.gradle/
